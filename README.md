@@ -24,6 +24,11 @@
 
 Eu amo criar soluções web e estou sempre procurando melhorar minhas habilidades. 
 
+Sou técnico e criativo no design responsivo e sei como construir uma UI reativa
+com o uso de ativos HTML e CSS.Além disso, tenho experiência em desenvolvimento
+frontend onde uso frameworks como Vue.js e React para criar aplicações interativas. 
+Em termos de back-end, conheço PHP e CodeIgniter. 
+Eu também sou competente no banco de dados MySQL e sei como armazenar dados com eficiência.
 
 
    
