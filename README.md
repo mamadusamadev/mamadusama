@@ -47,14 +47,21 @@
 ###
 
 
-Eu amo criar soluções web e estou sempre procurando melhorar minhas habilidades. 
+Sou especializado em **Back-end** e **Análise de Dados**. Tenho experiência em desenvolvimento de APIs, automação de processos e manipulação de dados complexos.
 
-Sou técnico e criativo no design responsivo e sei como construir uma UI reativa
-com o uso de ativos HTML e CSS.Além disso, tenho experiência em desenvolvimento
-frontend onde uso frameworks como   React para criar aplicações interativas. 
-Em termos de back-end atualmente estou   focado em Estudar Back-End (Node.js) e banco de dados MySQL . 
+### 🚀 Tecnologias que uso:
+- **Python** (Flask, Django)
+- **Análise de Dados** (Pandas, NumPy, Matplotlib)
+- **SQL** (MySQL, PostgreSQL)
 
+### 🔧 Ferramentas:
+- **Git & GitHub** para controle de versão
+- **Docker** para containers
+- **Jupyter Notebooks** para análise de dados interativa
 
+### 💡 Sempre em busca de novos desafios para aprimorar minhas habilidades e contribuir com projetos inovadores!
+
+Se você está interessado em colaborar ou discutir projetos, fique à vontade para me contatar!
    
 
 
