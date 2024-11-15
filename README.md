@@ -8,27 +8,34 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mamadusama&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180em" alt="languages graph"  />
 </div>
 
-###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-###
+##
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="28" />
- <img src="https://devicon-website.vercel.app/api/django/plain.svg?color=%230042C1"  height="30"></img>
-  <img width="28" />
-  <img src="https://devicon-website.vercel.app/api/flask/original.svg?color=%23FFFFFF"  height="30"></img>
-  <img width="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="30" alt="matplotlib logo"  />
-   <img width="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" height="30" alt="sql logo"  />
-  <img width="28" />
-  <img src="https://devicon-website.vercel.app/api/postgresql/original-wordmark.svg" height="30"></img>
-  <img width="28" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img width="16" />
+ <img src="https://devicon-website.vercel.app/api/django/plain.svg?color=%230042C1"  height="50"></img>
+  <img width="16" />
+  <img src="https://devicon-website.vercel.app/api/flask/original.svg?color=%23FFFFFF"  height="50"></img>
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="pandas logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50" alt="matplotlib logo"  />
+   <img width="16" />
+  <img src="https://devicon-website.vercel.app/api/numpy/original.svg" height="50"></img>
+    <img width="16" />
+  <img src="https://devicon-website.vercel.app/api/sqlite/original.svg"  height="50"></img>
+  <img width="16" />
+  <img src="https://devicon-website.vercel.app/api/postgresql/original-wordmark.svg" height="50"></img>
+  <img width="16" />
+  <img width="16" />
+  <img src="https://devicon-website.vercel.app/api/postgresql/original-wordmark.svg" height="50"></img>
+  <img width="16" />
+  <img width="16" />
+  <img src="https://devicon-website.vercel.app/api/postgresql/original-wordmark.svg" height="50"></img>
+  <img width="16" />
   
 </div>
 
@@ -43,13 +50,13 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-###
+##
 
 <br clear="both">
 
 
 
-###
+##
 
 
 Sou especializado em **Back-end** e **Análise de Dados**. Tenho experiência em desenvolvimento de APIs, automação de processos e manipulação de dados complexos.
