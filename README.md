@@ -31,10 +31,10 @@
   <img src="https://devicon-website.vercel.app/api/postgresql/original-wordmark.svg" height="50"></img>
   <img width="16" />
   <img width="16" />
-  <img src="https://devicon-website.vercel.app/api/postgresql/original-wordmark.svg" height="50"></img>
+  <img src="https://devicon-website.vercel.app/api/firebase/plain.svg" height="50"></img>
   <img width="16" />
   <img width="16" />
-  <img src="https://devicon-website.vercel.app/api/postgresql/original-wordmark.svg" height="50"></img>
+  <img src="https://devicon-website.vercel.app/api/git/original.svg"  height="50"></img>
   <img width="16" />
   
 </div>
@@ -55,8 +55,6 @@
 <br clear="both">
 
 
-
-##
 
 
 Sou especializado em **Back-end** e **Análise de Dados**. Tenho experiência em desenvolvimento de APIs, automação de processos e manipulação de dados complexos.
