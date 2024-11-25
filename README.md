@@ -4,6 +4,14 @@
     <summary><h1 style="display: inline-block">Olá 👋!Hi I am  Mamadu Sama</h1></summary>
 </div>
 
+<!-----snake---->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake"/></a>
+          
+</div>
+
+<br>
+
 <!-- Presentation -->
 <p>
   Hi 👋, I'm Mamadu Sama! A passionate Data Science student from Brazil.
