@@ -27,7 +27,6 @@
 
 
 </details>
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bu8m1rgufx0i4zsa64w3mnz1q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 <!-- Links -->
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@devmaster-pt)
@@ -60,6 +59,8 @@
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </div>
+    [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bu8m1rgufx0i4zsa64w3mnz1q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
   
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
