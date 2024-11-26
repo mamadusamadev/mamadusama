@@ -1,25 +1,31 @@
 <!-- Título -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+    <summary><h1 style="display: inline-block">👋 Olá! Eu sou Mamadu Sama</h1></summary>
 </div>
 
 <!-- Apresentação -->
 <p>
-  Hi 👋, I'm Mamad! A passionate Python Backend Developer from Brazil.
-
-  - 🌱 I’m currently specializing in backend development with Django and exploring Data Science.
-
-  - 🔭 I am looking for opportunities to work on impactful projects and expand my expertise in backend development.
+ - 🌱 Recentemente me formei em programação Python focado em back-end e estou me especializando em Ciência de Dados.
+  - 💻 Apaixonado por tecnologia, programação e como dados podem transformar decisões.
+  - 🔭 Em busca de oportunidades para aplicar meu conhecimento e crescer na área de dados.
+  - 🎯 Objetivo: trabalhar em projetos de impacto que utilizem Python e Ciência de Dados.
 </p>
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 More about me</summary>
+  <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 I am a Python programmer with intermediate knowledge, living in Brazil. I have experience in backend development, data analysis, and creating innovative solutions. I transitioned to Python after working with JavaScript, Node.js, and TypeScript.
+  - ⚡ No meu tempo livre, dedico-me a aprender novas tecnologias, resolver desafios complexos em Python e contribuir para projetos open-source.
+  - Também gosto de explorar livros sobre desenvolvimento pessoal e tecnologia, assistir séries e filmes de ficção científica e fantasia, e jogar videogames.  
 
-  - ⚡ In my free time, I enjoy learning about new technologies, solving challenges in Python, and contributing to open-source projects. I also love reading books, playing video games, and watching sci-fi movies.
+  - 🎮 Sou apaixonado por jogos de estratégia e RPG, que me ajudam a melhorar minha capacidade de planejamento e resolução de problemas.  
+
+  - 🌟 Valorizo momentos em que posso ensinar ou ajudar outras pessoas a aprender programação, acreditando que compartilhar conhecimento é uma das melhores formas de crescer na carreira.  
+
+  - 🏞️ Nos momentos offline, gosto de passear ao ar livre e fotografar paisagens, o que me ajuda a equilibrar o foco e a criatividade.
+
+
 </details>
 
 <!-- Links -->
