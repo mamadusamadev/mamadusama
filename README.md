@@ -150,4 +150,4 @@ As for the charts :pie:, if you like my A++ stats, then you can make your own by
 ### Watch my contribution graph get eaten by the snake :snake:
 
 <!-- platane/snk works, it just puts it on a new branch -->
-![mishmanners snake gif](https://github.com/mamadusama/MishManners/blob/output/github-snake.svg)
+![snake gif](https://github.com/mamadusama/mamadusama/blob/output/github-contribution-grid-snake.gif)
