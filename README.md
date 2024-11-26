@@ -28,7 +28,7 @@
 
 </details>
 <!-- Spotify -->
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bu8m1rgufx0i4zsa64w3mnz1q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/mamadusama/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bu8m1rgufx0i4zsa64w3mnz1q&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=bu8m1rgufx0i4zsa64w3mnz1q&redirect=true)
 
 <!-- Links -->
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@devmaster-pt)
