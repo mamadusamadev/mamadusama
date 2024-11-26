@@ -8,7 +8,7 @@
 <p>
    - 🌱 Recentemente me formei em programação Python focado em back-end e estou me especializando em Ciência de Dados.<br>
     - 💻 Apaixonado por tecnologia, programação e como dados podem transformar decisões.<br>
-    - 🔭 Em busca de oportunidades para aplicar meu conhecimento e crescer na área de dados.
+    - 🔭 Em busca de oportunidades para aplicar meu conhecimento e crescer na área de dados.<br>
     - 🎯 Objetivo: trabalhar em projetos de impacto que utilizem Python e Ciência de Dados.
 </p>
 
