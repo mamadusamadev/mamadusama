@@ -38,6 +38,7 @@
 
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=mamadusama&show_icons=true&theme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamadusama&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- Portfolio -->
