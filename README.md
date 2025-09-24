@@ -1,88 +1,97 @@
-<!-- Título -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">👋 Olá! Eu sou Mamadu Sama</h1></summary>
-</div>
+# 👋 &nbsp;Olá, eu sou Mamadu Sama, um apaixonado Desenvolvedor Full Stack em formação!
 
-<!-- Apresentação -->
-<p>
-   - 🌱 Recentemente me formei em programação Python focado em back-end e estou me especializando em Ciência de Dados.<br>
-    - 💻 Apaixonado por tecnologia, programação e como dados podem transformar decisões.<br>
-    - 🔭 Em busca de oportunidades para aplicar meu conhecimento e crescer na área de dados.<br>
-    - 🎯 Objetivo: trabalhar em projetos de impacto que utilizem Python e Ciência de Dados.
+<p align="center">
+<a href="https://www.linkedin.com/in/[seu-linkedin]"><img src="https://img.shields.io/badge/-Meu%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/[seu-instagram]"><img src="https://img.shields.io/badge/-Meu%20Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:[seu-email]@gmail.com"><img src="https://img.shields.io/badge/-Me%20Envie%20uma%20Mensagem-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 Mais sobre mim</summary>
+<h2> 👨🏻‍💻 &nbsp;Sobre Mim </h2>
 
-  - ⚡ No meu tempo livre, dedico-me a aprender novas tecnologias, resolver desafios complexos em Python e contribuir para projetos open-source.
-  - Também gosto de explorar livros sobre desenvolvimento pessoal e tecnologia, assistir séries e filmes de ficção científica e fantasia, e jogar videogames.  
+Sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por criar soluções web completas e modernas. Atualmente estou me especializando em desenvolvimento Full Stack através do FullStack Club, onde venho construindo uma base sólida em tecnologias como JavaScript, Node.js, React, PostgreSQL, MongoDB, Docker e muito mais.
 
-  - 🎮 Sou apaixonado por jogos de estratégia e RPG, que me ajudam a melhorar minha capacidade de planejamento e resolução de problemas.  
+Minha jornada na programação começou com a curiosidade de entender como as coisas funcionam "por trás das telas". Desde então, cada linha de código que escrevo me motiva ainda mais a explorar novas tecnologias e criar soluções que fazem a diferença.
 
-  - 🌟 Valorizo momentos em que posso ensinar ou ajudar outras pessoas a aprender programação, acreditando que compartilhar conhecimento é uma das melhores formas de crescer na carreira.  
+Acredito que a programação é uma ferramenta poderosa para transformar ideias em realidade, e estou constantemente buscando aprender mais e me tornar um profissional melhor a cada dia.
 
-  - 🏞️ Nos momentos offline, gosto de passear ao ar livre e fotografar paisagens, o que me ajuda a equilibrar o foco e a criatividade.
+<h2> 🎓 &nbsp;Estudante Dedicado & Futuro Mentor </h2>
 
+Uma das coisas que mais me motiva é o aprendizado contínuo e a possibilidade de compartilhar conhecimento com outros. Desde o início da minha jornada, tenho me fascinado não apenas por resolver problemas complexos com código, mas também por ajudar outros a entenderem e crescerem em seus próprios caminhos.
 
-</details>
+Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** e me especializando através do **[FullStack Club](https://www.fullstackclub.com.br/)**, onde venho desenvolvendo habilidades práticas em tecnologias modernas como TypeScript, React, Node.js e mais — tudo com uma abordagem hands-on e focada no mundo real.
 
-<!-- Links -->
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@devmaster-pt)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devdumaster/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mamadusama/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/mamadusamqa)
+Meu objetivo é não apenas me tornar um desenvolvedor excepcional, mas também contribuir com a comunidade tech compartilhando conhecimento e ajudando outros desenvolvedores em suas jornadas.
 
-<!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=mamadusama&show_icons=true&theme=gotham)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamadusama&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+<h2> 📚 &nbsp;O que você encontrará aqui?</h2>
 
+Este GitHub é mais que um repositório de código — é um reflexo da minha jornada, experiências e compromisso com o desenvolvimento de software limpo e funcional. Seja você um recrutador, um desenvolvedor colega ou alguém aprendendo a programar, aqui você encontrará:
 
-<!-- Portfolio -->
-## Portfolio:
-- [Recognition System Project](https://github.com/mamadusama/face-recognition-system)
-- [Backend API Development](https://github.com/mamadusama/backend-api-project)
-- [Data Cleaning Toolkit](https://github.com/mamadusama/data-cleaning-toolkit)
-- [Sales Data Visualization](https://github.com/mamadusama/sales-visualization)
+- Projetos práticos desenvolvidos durante meus estudos
+- Desafios do FullStack Club resolvidos com boas práticas
+- Experimentos com novas tecnologias e frameworks
+- Implementações seguindo princípios de Clean Code
+- Projetos pessoais que demonstram evolução técnica
+  
+Se você gostaria de se conectar, colaborar ou tem alguma pergunta, sinta-se à vontade para <a href="mailto:[seu-email]@gmail.com">clicar aqui e me enviar um email</a> — ou entre em contato no <a href="https://www.linkedin.com/in/[seu-linkedin]/">LinkedIn</a>. Estou sempre aberto para boas conversas e oportunidades interessantes.
 
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+<h2> 🛠 &nbsp;Tech Stack</h2>
+<h3>💻 &nbsp;Front-end:</h3>
+
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+
+<h3>⚙️ &nbsp;Back-end & Bancos de Dados:</h3>
+
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+
+<h3>🔧 &nbsp;Ferramentas & DevOps:</h3>
+
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+<h2>📈 &nbsp;Jornada de Aprendizado</h2>
+
+```javascript
+const desenvolvedor = {
+  nome: "[Seu Nome]",
+  foco: "Full Stack Development",
+  formacao: "Análise e Desenvolvimento de Sistemas",
+  curso: "FullStack Club",
+  objetivo: "Construir soluções que impactem positivamente as pessoas",
+  motivacao: "Cada desafio é uma oportunidade de crescer",
+  meta2024: "Conseguir meu primeiro estágio/emprego como desenvolvedor"
+};
+
+console.log("Sempre aprendendo, sempre evoluindo! 🚀");
+```
+
+<h2>🚀 &nbsp;Minhas Estatísticas do GitHub</h2>
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=[seu-username]&show_icons=true&theme=dracula)
+
+<h2>🎯 &nbsp;Objetivos Atuais</h2>
+
+- 🔭 Atualmente trabalhando em: **Projetos do FullStack Club e projetos pessoais**
+- 🌱 Aprendendo: **React, Node.js avançado, Docker e boas práticas de desenvolvimento**
+- 👯 Procurando colaborar em: **Projetos open source e iniciativas da comunidade tech**
+- 🤔 Busco ajuda com: **Oportunidades de estágio e networking profissional**
+- 💬 Pergunte-me sobre: **JavaScript, Node.js, Python, bancos de dados**
+- ⚡ Curiosidade: **Amo resolver problemas complexos e transformá-los em soluções elegantes**
+
+---
+
+<p align="center">
+  <i>🚀 "O único jeito de fazer um excelente trabalho é amar o que você faz." - Steve Jobs</i>
 </p>
 
-## 🔥 Skills
-<!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
-    <h3>Linguagens de Programação</h3>
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  </div>
-    
-
-  
-  <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
-    <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">
-    <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
-  </div>
- 
-  
-  <!-- Skills: Libraries -->
-  <div style="flex-basis: 48%;">
-    <h3>Libraries</h3>
-    <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-    <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-    <img align="center" alt="Matplotlib" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>
-    <img align="center" alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </div>
-
-Veja minha contribuição ser devorada pela cobra :snake:
-
-<!-- platane/snk works, it just puts it on a new branch -->
-![snake gif](https://github.com/mamadusama/mamadusama/blob/output/github-contribution-grid-snake.gif)
+<p align="center">
+  <i>💼 Aberto para oportunidades de estágio e projetos colaborativos!</i>
+</p>
