@@ -1,4 +1,4 @@
-# 👋 &nbsp;Olá, eu sou Mamadu Sama, um apaixonado Desenvolvedor Full Stack em formação!
+# 👋 &nbsp;Olá, eu sou Mamadu Sama <br> um apaixonado Desenvolvedor Full Stack em formação!
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mamadusama"><img src="https://img.shields.io/badge/-Meu%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
