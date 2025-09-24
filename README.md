@@ -1,9 +1,9 @@
 # 👋 &nbsp;Olá, eu sou Mamadu Sama, um apaixonado Desenvolvedor Full Stack em formação!
 
 <p align="center">
-<a href="https://www.linkedin.com/in/[seu-linkedin]"><img src="https://img.shields.io/badge/-Meu%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mamadusama"><img src="https://img.shields.io/badge/-Meu%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/[seu-instagram]"><img src="https://img.shields.io/badge/-Meu%20Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="mailto:[seu-email]@gmail.com"><img src="https://img.shields.io/badge/-Me%20Envie%20uma%20Mensagem-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:mamadusama19@gmail.com"><img src="https://img.shields.io/badge/-Me%20Envie%20uma%20Mensagem-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;Sobre Mim </h2>
@@ -61,7 +61,7 @@ Se você gostaria de se conectar, colaborar ou tem alguma pergunta, sinta-se à 
 
 ```javascript
 const desenvolvedor = {
-  nome: "[Seu Nome]",
+  nome: "Mamadu Sama",
   foco: "Full Stack Development",
   formacao: "Análise e Desenvolvimento de Sistemas",
   curso: "FullStack Club",
@@ -75,7 +75,7 @@ console.log("Sempre aprendendo, sempre evoluindo! 🚀");
 
 <h2>🚀 &nbsp;Minhas Estatísticas do GitHub</h2>
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=[seu-username]&show_icons=true&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=mamadusamadev&show_icons=true&theme=dracula)
 
 <h2>🎯 &nbsp;Objetivos Atuais</h2>
 
