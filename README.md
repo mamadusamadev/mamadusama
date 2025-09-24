@@ -32,7 +32,7 @@ Este GitHub é mais que um repositório de código — é um reflexo da minha jo
 - Implementações seguindo princípios de Clean Code
 - Projetos pessoais que demonstram evolução técnica
   
-Se você gostaria de se conectar, colaborar ou tem alguma pergunta, sinta-se à vontade para <a href="mailto:mamadusama19@gmail.com">clicar aqui e me enviar um email</a> — ou entre em contato no <a href="https://www.linkedin.com/in/mamadusmadev/">LinkedIn</a>. Estou sempre aberto para boas conversas e oportunidades interessantes.
+Se você gostaria de se conectar, colaborar ou tem alguma pergunta, sinta-se à vontade para <a href="mailto:mamadusama19@gmail.com">clicar aqui e me enviar um email</a> — ou entre em contato no <a href="https://www.linkedin.com/in/mamadusma/">LinkedIn</a>. Estou sempre aberto para boas conversas e oportunidades interessantes.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
